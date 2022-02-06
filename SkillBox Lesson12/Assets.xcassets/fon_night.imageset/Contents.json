@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "nochnaya-moskva-s-56-go-etazha-ploshhadki-moskva-siti_04.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
